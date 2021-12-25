@@ -1,0 +1,8 @@
+# node
+node_modules/
+
+# idea
+.idea/
+
+# mac
+.DS_Store
