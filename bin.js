@@ -1,4 +1,6 @@
 #!/usr/bin/env node
 'use strict'
 
-console.log(require('./dist/'))
+const {happyNewYear} = require('./dist')
+
+console.log(happyNewYear())
